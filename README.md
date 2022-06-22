@@ -9,10 +9,9 @@
 ![Redis](https://img.shields.io/badge/Redis-%E6%95%B0%E6%8D%AE%E5%BA%93-brightgreen)
 ![小程序](https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%BC%80%E5%8F%91-green)
 
-- 职业：`IT`
+- 职业：IT
 - 个人微信：kossfirst
 - 个人QQ：903363777
-- 个人邮箱：462369233@qq.com
 - 喜欢的NBA球星：`科比 • 布莱恩特`
 
 
