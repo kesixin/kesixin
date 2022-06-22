@@ -1,12 +1,11 @@
 ### Hello 👋
 
-![PHP]((https://img.shields.io/badge/PHP-%E7%B2%BE%E9%80%9A-blue))
+![PHP](https://img.shields.io/badge/PHP-%E7%B2%BE%E9%80%9A-blue)
 ![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
 ![Laravel](https://img.shields.io/badge/Laravel-%E6%A1%86%E6%9E%B6-orange)
 ![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
 
-- 职业：`FE`
-- 事业：`独立开发者`
+- 职业：`IT`
 
 #### 📬 独立开发
 
@@ -18,12 +17,11 @@
 
 **更多独立开发项目参考**：[https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g](https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g) ，开源项目可移步↓
 
-#### 媒体号
+#### 个人站
 
-- 微信公众号：磊子执行力
-- 前端私塾博客(Blog)：[i7xy.cn](http://i7xy.cn)
-- 掘金: [https://juejin.cn/user/1873223544998494](https://juejin.cn/user/1873223544998494)
+- 个人博客：[https://blog.mambaxin.com](https://blog.mambaxin.com)
+- CSDN：[https://blog.csdn.net/kesixin](https://blog.csdn.net/kesixin)
+- 码云: [https://gitee.com/kesixin](https://gitee.com/kesixin)
 - 小破站：[https://space.bilibili.com/33639420](https://space.bilibili.com/33639420)
 
-![arley's github stats](https://github-readme-stats.vercel.app/api?username=arleyGuoLei&show_icons=true&hide_border=true)
 
