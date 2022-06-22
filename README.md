@@ -17,9 +17,9 @@
 
 #### 📬 独立开发
 
-- 考题星：考题星小程序适用于考核，评测等场景，功能包括：练习模式（顺序答题，随机答题，专项答题，题型答题）、背题模式、考试模式、错题集、收藏题集、答题活动、答题排名、签到功能；后台功能支持系统管理，微信用户管理，题库管理，用户反馈，答题管理，配置管理，轮播图管理；[github](https://github.com/kesixin/QuestionWechatApp)
+- 考题星：考题星小程序适用于考核，评测等场景，功能包括：练习模式（顺序答题，随机答题，专项答题，题型答题）、背题模式、考试模式、错题集、收藏题集、答题活动、答题排名、签到功能；后台功能支持系统管理，微信用户管理，题库管理，用户反馈，答题管理，配置管理，轮播图管理；[项目地址](https://github.com/kesixin/QuestionWechatApp)
 
-- 智汇答题Plus：智汇答题Plus小程序适用于考核，评测等场景，分为五大功能：练习，考试，错题，收藏，排名；管理后台支持管理用户，系统设置，后台审核用户信息，发送模板消息通知用户，可以随时增加套题，增加题目，编辑题目，删除题目，以及使用模板批量的导入题目，查看答题记录，查看反馈意见等；[github](https://github.com/kesixin/QuestionWechatApp)
+- 智汇答题Plus：智汇答题Plus小程序适用于考核，评测等场景，分为五大功能：练习，考试，错题，收藏，排名；管理后台支持管理用户，系统设置，后台审核用户信息，发送模板消息通知用户，可以随时增加套题，增加题目，编辑题目，删除题目，以及使用模板批量的导入题目，查看答题记录，查看反馈意见等；[项目地址](https://github.com/kesixin/QuestionWechatApp)
 
 |![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kesixin&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesixin&locale=en&hide_border=true&layout=compact)|
 |-|-|
