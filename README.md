@@ -22,7 +22,7 @@
 
 - 智汇答题Plus：智汇答题Plus小程序适用于考核，评测等场景，分为五大功能：练习，考试，错题，收藏，排名；管理后台支持管理用户，系统设置，后台审核用户信息，发送模板消息通知用户，可以随时增加套题，增加题目，编辑题目，删除题目，以及使用模板批量的导入题目，查看答题记录，查看反馈意见等；[项目地址](https://github.com/kesixin/QuestionWechatApp)
 
-|![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kesixin&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesixin&locale=zh&hide_border=true&layout=compact)|
+|![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kesixin&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesixin&locale=en&hide_border=true&layout=compact)|
 |-|-|
 
 
