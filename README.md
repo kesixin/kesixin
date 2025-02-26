@@ -13,7 +13,7 @@
 
 
 #### 📬 独立开发
-- 智汇考题：智汇考题适用于考核，评测等场景，是一个适用于PC端和手机端的答题测试考核平台，支持PC端，H5端，小程序端，服务端有JAVA(springboot)和PHP版本，管理后台使用vue.js，PC端使用vue.js，小程序端使用uniapp。[项目地址](https://github.com/kesixin/QuestionWechatApp)
+- 智汇考题：智汇考题适用于考核，评测等场景，是一个适用于PC端和手机端的答题测试考核平台，支持PC端，H5端，小程序端，三端数据互通。服务端有JAVA(springboot)和PHP版本，管理后台使用vue.js，PC端使用vue.js，小程序端使用uniapp开发。[项目地址](https://github.com/kesixin/QuestionWechatApp)
 
 - 智慧考题宝：智慧考题宝小程序适用于考核，评测等场景，功能包括：练习模式（顺序答题，随机答题，专项答题，题型答题，高频错题）、背题模式、模拟考试、错题集、收藏题集、搜索题目、排行榜、签到功能，资讯文章，答题设置，答题音效，积分功能，激活码功能，多级题库分类。[项目地址](https://github.com/kesixin/QuestionWechatApp)
 
